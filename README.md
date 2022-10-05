@@ -1,3 +1,4 @@
+
 [![header](https://github.com/Argevie/Dolgalev_QA/blob/main/assets/Header.png)](https://t.me/Badpunch)
 
 ### Тестовые артефакты
@@ -23,6 +24,7 @@
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=github&logoColor=cd85)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4169e1)
 ![scrum](https://img.shields.io/badge/-scrum-090909?style=for-the-badge&logo=atlassian&logoColor=cd85)
+[![English](https://img.shields.io/badge/-English-090909?style=for-the-badge&logo=English&logoColor=cd85)](https://www.efset.org/cert/KpxfWL)
 
 ---
 
