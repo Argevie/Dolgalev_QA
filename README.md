@@ -15,4 +15,5 @@
 
 ### Hard Skills
 
-[![теория тестирования](https://img.shields.io/badge/-Теория_Тестирования-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)]
+![теория тестирования](https://img.shields.io/badge/-Теория_Тестирования-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)
+![postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=cd85)
