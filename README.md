@@ -1,5 +1,5 @@
 
-[![header](https://github.com/Argevie/Dolgalev_QA/blob/main/assets/Header.png)](https://t.me/Badpunch)
+[![header](https://github.com/Argevie/Dolgalev_QA/blob/main/assets/Header%202.png)](https://t.me/Badpunch)
 
 ### Test Artifacts
 
@@ -11,7 +11,7 @@
 
 ### Hard Skills
 
-![](https://img.shields.io/badge/-Теория_Тестирования-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)
+![Теория Тестирования](https://img.shields.io/badge/-Теория_Тестирования-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)
 ![postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=cd85)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=&logoColor=cd85)
 ![Rest api](https://img.shields.io/badge/-Rest&nbsp;api-090909?style=for-the-badge&logo=api&logoColor=cd85)
