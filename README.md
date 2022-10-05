@@ -24,7 +24,9 @@
 
 ### About Me
 
+```
 Hello! My name is Andrei, I study at the Tomsk University of Control Systems and Radioelectronics. Interested in Testing and Quality Assurance, I have skills in using test design techniques, test theory, API, SQL, Postman, basic programming knowledge. I am focused on the result, I love monotonous but intellectual work. Thank you for your time, if I could interest you, please contact me.
+```
 
 ---
 
