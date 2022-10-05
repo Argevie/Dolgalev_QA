@@ -1,5 +1,5 @@
 
-[![header](https://github.com/Argevie/Dolgalev_QA/blob/main/assets/Header%20Animation3.gif)](https://t.me/Badpunch)
+[![header](https://github.com/Argevie/Dolgalev_QA/blob/main/assets/Header%20Animation%20f.gif)](https://t.me/Badpunch)
 
 ### Test Artifacts
 
