@@ -12,6 +12,7 @@
 
 [![Таблица принятия решений](https://img.shields.io/badge/-Таблица&nbsp;принятия&nbsp;решений-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://docs.google.com/spreadsheets/d/1BYK8Q4AJJQDqLlZQBkn2FH2nj1VMeBNYXvBQtzSzoO4/edit?usp=sharing)
 
+---
 
 ### Hard Skills
 
@@ -22,6 +23,8 @@
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=github&logoColor=cd85)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4169e1)
 ![scrum](https://img.shields.io/badge/-scrum-090909?style=for-the-badge&logo=atlassian&logoColor=cd85)
+
+---
 
 ### Contact Me
 
