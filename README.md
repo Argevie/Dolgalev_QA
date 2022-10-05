@@ -17,3 +17,15 @@
 
 ![теория тестирования](https://img.shields.io/badge/-Теория_Тестирования-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)
 ![postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=cd85)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=&logoColor=cd85)
+![Rest api](https://img.shields.io/badge/-Rest&nbsp;api-090909?style=for-the-badge&logo=api&logoColor=cd85)
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=github&logoColor=cd85)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4169e1)
+![scrum](https://img.shields.io/badge/-scrum-090909?style=for-the-badge&logo=atlassian&logoColor=cd85)
+
+### Contact Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=cd85)](https://t.me/Badpunch)
+[![Youtube](https://img.shields.io/badge/-Toutube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/channel/UCsU3GO1Qw2kygw0v_xB5JAQ)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0033ff)](https://www.linkedin.com/in/andrei-dolgalev-b58712240/)
+[![Career.Habr](https://img.shields.io/badge/-Habr&nbsp;Career-090909?style=for-the-badge&logo=habr&logoColor=0033ff)](https://career.habr.com/argevie)
