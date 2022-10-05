@@ -24,15 +24,15 @@
 
 ### About Me
 
-```
+
 Hello! My name is Andrei, I study at the Tomsk University of Control Systems and Radioelectronics. Interested in Testing and Quality Assurance, I have skills in using test design techniques, test theory, API, SQL, Postman, basic programming knowledge. I am focused on the result, I love monotonous but intellectual work. Thank you for your time, if I could interest you, please contact me.
-```
+
 
 ---
 
 ### Contact Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=cd85)](https://t.me/Badpunch)
-[![Youtube](https://img.shields.io/badge/-Toutube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/channel/UCsU3GO1Qw2kygw0v_xB5JAQ)
+[![Youtube](https://img.shields.io/badge/-youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/channel/UCsU3GO1Qw2kygw0v_xB5JAQ)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0033ff)](https://www.linkedin.com/in/andrei-dolgalev-b58712240/)
 [![Career.Habr](https://img.shields.io/badge/-Habr&nbsp;Career-090909?style=for-the-badge&logo=habr&logoColor=0033ff)](https://career.habr.com/argevie)
