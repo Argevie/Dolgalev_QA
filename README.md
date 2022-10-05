@@ -1,4 +1,7 @@
-# Dolgalev_QA
+[![header](https://github.com/Argevie/Dolgalev_QA/blob/main/assets/Header.png)](https://t.me/Badpunch)
+
+
+
 [Примеры моих тест кейсов](https://docs.google.com/spreadsheets/d/1YOHsdVRbiyZcMIXCHeZ79hO1S6hbXd5Ojsigi0clNGE/edit#gid=306401338)
 
 ---
