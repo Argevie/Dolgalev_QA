@@ -12,7 +12,7 @@
 
 ---
 
-### Hard Skills
+### Skills & Instruments
 
 ![Теория Тестирования](https://img.shields.io/badge/-Теория_Тестирования-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)
 ![postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=cd85)
@@ -27,6 +27,7 @@
 
 ### About Me
 
+Привет! Меня зовут Андрей, я учусь в Томском университете систем управления и радиоэлектроники. Интересуюсь и изучаю тестирование и обеспечение качества, у меня есть навыки использования методов проектирования тестов, теории тестирования, API, SQL, Postman, базовые знания программирования. Я нацелен на результат, люблю монотонную, но интеллектуальную работу. Спасибо за ваше время, если я смог заинтересовать вас, свяжитесь со мной.
 
 Hello! My name is Andrei, I study at the Tomsk University of Control Systems and Radioelectronics. Interested in Testing and Quality Assurance, I have skills in using test design techniques, test theory, API, SQL, Postman, basic programming knowledge. I am focused on the result, I love monotonous but intellectual work. Thank you for your time, if I could interest you, please contact me.
 
