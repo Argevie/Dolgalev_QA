@@ -7,7 +7,7 @@
 [![Cross Platform Testing](https://img.shields.io/badge/-Cross&nbsp;Platform&nbsp;Testing-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://docs.google.com/spreadsheets/d/1lhf7EbmEpWJ6Ff1KzeVoDVdNhyvlLENEUF0VbX0qUyw/edit#gid=1338972624)
 [![Decision Table](https://img.shields.io/badge/-Decision&nbsp;Table-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://docs.google.com/spreadsheets/d/1BYK8Q4AJJQDqLlZQBkn2FH2nj1VMeBNYXvBQtzSzoO4/edit?usp=sharing)
 [![S&T Diagram](https://img.shields.io/badge/-Diagram&nbsp;S&T-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://drive.google.com/file/d/1Uny0WfMaxaNucfEErOmIeOveRzoASPPV/view?usp=sharing)
-[![Test Plan](https://img.shields.io/badge/-Test&nbsp;Plan-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://drive.google.com/file/d/1YSKN3Ok3uFCnmeCJ8o-gFqcladsBADac/view)
+[![Test Plan](https://img.shields.io/badge/-Test&nbsp;Plan-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://drive.google.com/file/d/1z_r4-P_IGK1bIIEtEdxMmrKsRQLCSEWC/view?usp=sharing)
 
 
 ---
@@ -27,7 +27,6 @@
 
 ### About Me
 
-Привет! Меня зовут Андрей, я учусь в Томском Университете Систем Управления и Радиоэлектроники. Интересуюсь и изучаю тестирование и обеспечение качества, у меня есть навыки использования методов проектирования тестов, теории тестирования, API, SQL, Postman, базовые знания программирования. Я нацелен на результат, люблю монотонную, но интеллектуальную работу. Спасибо за ваше время, если я смог заинтересовать вас, свяжитесь со мной.
 
 Hello! My name is Andrei, I study at the Tomsk University of Control Systems and Radioelectronics. Interested in Testing and Quality Assurance, I have skills in using test design techniques, test theory, API, SQL, Postman, basic programming knowledge. I am focused on the result, I love monotonous but intellectual work. Thank you for your time, if I could interest you, please contact me.
 
