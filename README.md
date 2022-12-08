@@ -6,7 +6,7 @@
 [![Test Case Sample](https://img.shields.io/badge/-Test&nbsp;Case&nbsp;Sample-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://docs.google.com/spreadsheets/d/1YxS7CHnPbnLpxPCehPhkj2Pk2U8aLmlIiBN4gTBTIdA/edit#gid=1131721244)
 [![Cross Platform Testing](https://img.shields.io/badge/-Cross&nbsp;Platform&nbsp;Testing-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://docs.google.com/spreadsheets/d/1lhf7EbmEpWJ6Ff1KzeVoDVdNhyvlLENEUF0VbX0qUyw/edit#gid=1338972624)
 [![Decision Table](https://img.shields.io/badge/-Decision&nbsp;Table-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://docs.google.com/spreadsheets/d/1BYK8Q4AJJQDqLlZQBkn2FH2nj1VMeBNYXvBQtzSzoO4/edit?usp=sharing)
-[![S&T Diagram](https://img.shields.io/badge/-Diagram&nbsp;S&T-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://drive.google.com/file/d/1Uny0WfMaxaNucfEErOmIeOveRzoASPPV/view?usp=sharing)
+[![S&T Diagram](https://img.shields.io/badge/-Diagram&nbsp;S&T-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://drive.google.com/file/d/1wglR9lKvgke7PFVCI-owRXVltph0Qdkc/view?usp=share_link)
 [![Test Plan](https://img.shields.io/badge/-Test&nbsp;Plan-090909?style=for-the-badge&logo=&logoColor=ff0000)](https://drive.google.com/file/d/1z_r4-P_IGK1bIIEtEdxMmrKsRQLCSEWC/view?usp=sharing)
 
 
@@ -14,7 +14,7 @@
 
 ### Skills & Instruments
 
-[![QA Testing Theory](https://img.shields.io/badge/-QA_Testing_Theory-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)]
+![QA Testing Theory](https://img.shields.io/badge/-QA_Testing_Theory-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)
 ![postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=cd85)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=&logoColor=cd85)
 ![Rest api](https://img.shields.io/badge/-Rest&nbsp;api-090909?style=for-the-badge&logo=api&logoColor=cd85)
