@@ -14,7 +14,7 @@
 
 ### Skills & Instruments
 
-[![Теория Тестирования](https://img.shields.io/badge/-Теория_Тестирования-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://xmind.works/share/raE0Mnaj)
+[![QA Testing Theory](https://img.shields.io/badge/-QA_Testing_Theory-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://xmind.works/share/raE0Mnaj)
 ![postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=cd85)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=&logoColor=cd85)
 ![Rest api](https://img.shields.io/badge/-Rest&nbsp;api-090909?style=for-the-badge&logo=api&logoColor=cd85)
